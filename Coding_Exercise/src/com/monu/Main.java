@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
         numberToWords(1010);
      //   System.out.println(getDigitCount(100));
+    //    System.out.println(canPack(1,0,4));
     }
 
     public static void numberToWords (int number){
@@ -90,4 +91,6 @@ public class Main {
         }
         return count;
     }
+
+
 }
