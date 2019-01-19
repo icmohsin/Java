@@ -1,0 +1,5 @@
+accept user enter values
+
+Scanner :
+Scanner scanner = new Scanner(System.in); ---- inatilasing scanner
+scanner.close(); -- closing the scanner
